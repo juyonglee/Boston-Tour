@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+    <title>Boston Tour</title>
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     <script src="/javascript/map.js"></script>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
@@ -15,7 +23,33 @@
             <option value="hiding">Hide features</option>
           </select>
         </div>
-        <div id="map"></div>
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-8" >
+            <div id="map"></div></div>
+
+          <div class="col-xs-6 col-md-4" style="margin-left: -30px">
+              <div class="list-group">
+                  <a href="#" class="list-group-item active">
+                      <h4 class="list-group-item-heading">List group item heading</h4>
+                      <p class="list-group-item-text">1</p>
+                    </a>
+                    <a href="#" class="list-group-item ">
+                        <h4 class="list-group-item-heading">List group item heading</h4>
+                        <p class="list-group-item-text">2</p>
+                      </a>
+                      <a href="#" class="list-group-item ">
+                          <h4 class="list-group-item-heading">List group item heading</h4>
+                          <p class="list-group-item-text">3</p>
+                        </a>
+                        <a href="#" class="list-group-item ">
+                            <h4 class="list-group-item-heading">List group item heading</h4>
+                            <p class="list-group-item-text">4</p>
+                          </a>
+                </div>
+          </div>
+        </div>
+
+        
   </body>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADcv6BXTI-vdbqqQH02UOwgUook3Wfd6s&callback=initMap"
   async defer></script>
