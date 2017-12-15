@@ -2,10 +2,21 @@
 <html>
   <head>
     <title><%= title %></title>
+    <script src="/javascript/map.js"></script>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+      <div id="style-selector-control"  class="map-control">
+          <select id="style-selector" class="selector-control">
+            <option value="default">Default</option>
+            <option value="silver">Silver</option>
+            <option value="night">Night mode</option>
+            <option value="retro" selected="selected">Retro</option>
+            <option value="hiding">Hide features</option>
+          </select>
+        </div>
+        <div id="map"></div>
   </body>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyADcv6BXTI-vdbqqQH02UOwgUook3Wfd6s&callback=initMap"
+  async defer></script>
 </html>
