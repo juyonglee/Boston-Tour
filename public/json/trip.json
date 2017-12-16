@@ -4,123 +4,77 @@
             "name": "Freedom Trail",
             "location":{
                 "lat": 42.3629778,
-                "lng": -71.058312
+                "lng": -71.058312,
+                "url": "https://www.google.co.kr/maps/place/Freedom+Trail,+Boston,+MA,+%EB%AF%B8%EA%B5%AD/@42.3629739,-71.058312,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3709c9a6344c9:0x4fb15fe6b7bad27a!8m2!3d42.3629739!4d-71.0561233"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-freedom-trail.jpg",
-            "info": "The three-mile Freedom Trail leads you past - and into - 16 of the city's principal historic monuments and sites.
-            It's easy to follow, by the line of red bricks in the sidewalk and by footprints at street crossings. 
-            Begin by picking up brochures on the attractions at the Visitor Center in the Boston Common before heading to the State House. 
-            The trail will take you to Old Granary Burying Ground (where Paul Revere, Samuel Adams, and John Hancock are buried), 
-            King's Chapel Burying Ground (Boston's oldest cemetery with the graves of Governor John Winthrop and two Mayflower passengers), 
-            Old South Meeting House (where the ringing speeches of patriots spawned the Boston Tea Party), and the Old State House. 
-            This is Boston's oldest public building and the site of the Boston Massacre.
-            In the North End, Boston's lively Italian neighborhood, are the Paul Revere House and Old North Church, 
-            where lanterns were hung in April 1775 to alert Paul Revere that British troops were headed to Lexington to arrest the patriot leaders and confiscate the munitions supplies. 
-            The trail ends across the bridge in Charlestown with the 54-gun frigate USS Constitution -nicknamed 'Old Ironsides' in the War of 1812 - and the 220-foot granite Bunker Hill Monument.",
+            "info": "The three-mile Freedom Trail leads you past - and into - 16 of the city's principal historic monuments and sites. It's easy to follow, by the line of red bricks in the sidewalk and by footprints at street crossings. Begin by picking up brochures on the attractions at the Visitor Center in the Boston Common before heading to the State House. The trail will take you to Old Granary Burying Ground (where Paul Revere, Samuel Adams, and John Hancock are buried), King's Chapel Burying Ground (Boston's oldest cemetery with the graves of Governor John Winthrop and two Mayflower passengers), Old South Meeting House (where the ringing speeches of patriots spawned the Boston Tea Party), and the Old State House. This is Boston's oldest public building and the site of the Boston Massacre. In the North End, Boston's lively Italian neighborhood, are the Paul Revere House and Old North Church, where lanterns were hung in April 1775 to alert Paul Revere that British troops were headed to Lexington to arrest the patriot leaders and confiscate the munitions supplies. The trail ends across the bridge in Charlestown with the 54-gun frigate USS Constitution -nicknamed 'Old Ironsides' in the War of 1812 - and the 220-foot granite Bunker Hill Monument.",
             "url": "http://www.thefreedomtrail.org"
         },
         {
             "name": "Faneuil Hall Marketplace",
             "location":{
                 "lat": 42.3602324,
-                "lng": -71.0569609
+                "lng": -71.0569609,
+                "url": "https://www.google.co.kr/maps/place/%ED%8C%8C%EB%89%BC+%ED%99%80+%EB%A7%88%EC%BC%93%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4/@42.3602285,-71.0547722,15z/data=!4m5!3m4!1s0x0:0xc2f8ab58860405!8m2!3d42.3602285!4d-71.0547722?sa=X&ved=0ahUKEwjcut7WkY7YAhWLr48KHYQyAhMQ_BIIkQEwEA"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-faneuil-hall-2.jpg",
-            "info": "Known as the 'cradle of liberty,' Faneuil Hall was built in 1740-42 by Huguenot merchant Peter Faneuil as a market hall and presented to the city on condition that it should always be open to the public. 
-            The ground floor is still occupied by market stalls; on the upper floor is a council chamber, which in the 18th and 19th centuries was the meeting place of revolutionaries and later, of abolitionists. 
-            On its fourth floor is the Ancient and Honorable Artillery Museum, with weaponry, uniforms, and paintings of significant battles.
-            The adjoining Faneuil Hall Marketplace includes three long halls (Quincy Market, North Market, and South Market), dating from the early 19th century, now occupied by a lively assortment of shops, restaurants, and exhibitions. 
-            In good weather, you'll find street performers and buskers putting on shows in the square around the market, and along with the numerous food stalls, there are also shops selling jewelry, clothing, gifts, and souvenirs.",
+            "info": "Known as the 'cradle of liberty,' Faneuil Hall was built in 1740-42 by Huguenot merchant Peter Faneuil as a market hall and presented to the city on condition that it should always be open to the public. The ground floor is still occupied by market stalls; on the upper floor is a council chamber, which in the 18th and 19th centuries was the meeting place of revolutionaries and later, of abolitionists. On its fourth floor is the Ancient and Honorable Artillery Museum, with weaponry, uniforms, and paintings of significant battles. The adjoining Faneuil Hall Marketplace includes three long halls (Quincy Market, North Market, and South Market), dating from the early 19th century, now occupied by a lively assortment of shops, restaurants, and exhibitions. In good weather, you'll find street performers and buskers putting on shows in the square around the market, and along with the numerous food stalls, there are also shops selling jewelry, clothing, gifts, and souvenirs.",
             "url": "https://www.faneuilhallmarketplace.com"
         },
         {
             "name": "Boston Common and Public Garden Swan Boats",
             "location":{
                 "lat": 42.3540951,
-                "lng": -71.0722136
+                "lng": -71.0722136,
+                "url": "https://www.google.co.kr/maps/place/%EB%B3%B4%EC%8A%A4%ED%84%B4+%EC%BD%94%EB%A8%BC+%EA%B3%B5%EC%9B%90/@42.3549544,-71.0654886,15z/data=!4m5!3m4!1s0x0:0x3f8683fc7ba94f04!8m2!3d42.3549544!4d-71.0654886?sa=X&ved=0ahUKEwiAu4LxkY7YAhUBvI8KHd_oALwQ_BIImgEwDg"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-swan-boats.jpg",
-            "info": "In the heart of the city is Boston Common, America's oldest park and the start of the Freedom Trail. 
-            In this large green space, which is much used by locals year-round, are various monuments and the Central Burying Ground of 1756. 
-            You can rent skates to use on the Frog Pond from November through mid-March, enjoy the spring blossoms and fall foliage colors reflecting in its surface, 
-            and in summer, watch youngsters splash about in the wading pool.
-            Adjoining it on the west side of Charles Street, is the 24-acre Public Garden, America's oldest botanical garden, 
-            as well as Victorian-style monuments and statues, including an equestrian statue of George Washington and popular modern bronzes of a family of ducks immortalized in Robert McCloskey's children's book Make Way for the Ducklings. 
-            One of Boston's most iconic experiences for all ages is riding around the lake in the garden's center on the famous Swan Boats, first launched in the 1870s.",
+            "info": "In the heart of the city is Boston Common, America's oldest park and the start of the Freedom Trail. In this large green space, which is much used by locals year-round, are various monuments and the Central Burying Ground of 1756. You can rent skates to use on the Frog Pond from November through mid-March, enjoy the spring blossoms and fall foliage colors reflecting in its surface, and in summer, watch youngsters splash about in the wading pool. Adjoining it on the west side of Charles Street, is the 24-acre Public Garden, America's oldest botanical garden, as well as Victorian-style monuments and statues, including an equestrian statue of George Washington and popular modern bronzes of a family of ducks immortalized in Robert McCloskey's children's book Make Way for the Ducklings. One of Boston's most iconic experiences for all ages is riding around the lake in the garden's center on the famous Swan Boats, first launched in the 1870s.",
             "url": "https://swanboats.com"
         },
         {
             "name": "Beacon Hill",
             "location":{
                 "lat": 42.3583059,
-                "lng": -71.0711146
+                "lng": -71.0711146,
+                "url": "https://www.google.co.kr/maps/place/%EB%AF%B8%EA%B5%AD+%EB%A7%A4%EC%82%AC%EC%B6%94%EC%84%B8%EC%B8%A0+%EB%B3%B4%EC%8A%A4%ED%84%B4+%EB%B9%84%EC%BB%A8%ED%9E%90/@42.3582978,-71.075492,15z/data=!3m1!4b1!4m5!3m4!1s0x89e3709e822ace4f:0xad0e41814f41c4d8!8m2!3d42.3587999!4d-71.0707389"
             },
             "image": "http://www.bcgavel.com/wp-content/uploads/2013/12/Beacon-Hill-Amanda.jpg",
-            "info": "One of Boston's most beautiful neighborhoods and right in the center of the city, the south side of Beacon Hill has traditionally been the home of Boston's 'old money' families, known locally as 'Brahmins.' 
-            Well-kept brick homes in Federal and Greek Revival styles line its tree-shaded streets, and at its heart is Louisburg Square, where homes face onto a leafy private park. 
-            Author Louisa May Alcott lived here from 1880 to 1888. 
-            The Nichols House Museum, a Federal-style home by Boston architect Charles Bulfinch, shows how Beacon Hill's upper class residents lived and is filled with collections of 16th- to 19th-century furnishings and decorative arts. 
-            At the western foot of Beacon Hill, Charles Street is lined with boutiques and shops that have traditionally catered to the neighborhood and are popular with visitors as well. 
-            Beyond Charles Street, facing the Public Garden, The Bull and Finch, established in 1969, inspired the popular television program, Cheers.
-            The north side of Beacon Hill is far more modest, and has been home to immigrants, including a sizable African American community, since the early 19th century. 
-            National Park Service Rangers offer free guided tours of the Black Heritage Trail from April through November and you can follow the trail on a self-guided tour year round. 
-            The Boston African American National Historic Site includes 15 pre-Civil War homes, businesses, schools, and churches that give a picture of Boston's 19th-century African American community.
-            The Museum of Afro-American History operates the African Meeting House, the country's oldest (1806) church built by and for Black Americans and now restored to its 1854 appearance. 
-            The 1834 Abiel Smith School was the first public grammar school for African American children. 
-            Displays at both include artifacts, films, art, and sculpture related to the black experience in Boston and New England.",
+            "info": "One of Boston's most beautiful neighborhoods and right in the center of the city, the south side of Beacon Hill has traditionally been the home of Boston's 'old money' families, known locally as 'Brahmins.' Well-kept brick homes in Federal and Greek Revival styles line its tree-shaded streets, and at its heart is Louisburg Square, where homes face onto a leafy private park. Author Louisa May Alcott lived here from 1880 to 1888. The Nichols House Museum, a Federal-style home by Boston architect Charles Bulfinch, shows how Beacon Hill's upper class residents lived and is filled with collections of 16th- to 19th-century furnishings and decorative arts. At the western foot of Beacon Hill, Charles Street is lined with boutiques and shops that have traditionally catered to the neighborhood and are popular with visitors as well. Beyond Charles Street, facing the Public Garden, The Bull and Finch, established in 1969, inspired the popular television program, Cheers. The north side of Beacon Hill is far more modest, and has been home to immigrants, including a sizable African American community, since the early 19th century. National Park Service Rangers offer free guided tours of the Black Heritage Trail from April through November and you can follow the trail on a self-guided tour year round. The Boston African American National Historic Site includes 15 pre-Civil War homes, businesses, schools, and churches that give a picture of Boston's 19th-century African American community. The Museum of Afro-American History operates the African Meeting House, the country's oldest (1806) church built by and for Black Americans and now restored to its 1854 appearance. The 1834 Abiel Smith School was the first public grammar school for African American children. Displays at both include artifacts, films, art, and sculpture related to the black experience in Boston and New England.",
             "url": "https://www.jetsetter.com/hotels/boston/massachusetts/2442/beacon-hill-hotel-bistro"
         },
         {
             "name": "Harvard Square and Harvard Art Museums",
             "location":{
                 "lat": 42.3755503,
-                "lng": -71.1176978
+                "lng": -71.1176978,
+                "url": "https://www.google.co.kr/maps/place/Harvard+Art+Museums/@42.3740898,-71.1165469,17z/data=!3m1!4b1!4m5!3m4!1s0x89e377448897a76d:0xe34244cf7bf8f747!8m2!3d42.3740898!4d-71.1143582"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-harvard.jpg",
-            "info": "Harvard University, founded in 1636, is the oldest institution of higher learning in the United States and is widely considered one of the world's leading academic centers. 
-            Go to the Harvard Information Center to take a spirited and entertaining free walking tour of the campus guided by a student who will share history, Harvard lore, and personal perspective. 
-            Or you can download a tour from their website. Harvard Yard sits right in Harvard Square, a lively hub for students, 'townies,' and visitors, filled with shops, bookstores, and allegedly more places to buy ice cream than any other U.S.city.
-            Adjoining Harvard Yard is the Renzo Piano-designed home of the Harvard Art Museums, including three formerly separate collections, each of which ranked high as major U.S. art museums. 
-            Few universities have such enviable collections. Fogg Art Museum concentrates on Italian early-Renaissance art, the Busch-Reisinger on Expressionist art of central and northern Europe, 
-            with Bauhaus objects and paintings by Kandinsky and Klee. 
-            The Arthur M. Sackler Museum has one of the world's best collections of Chinese jade, as well as Chinese bronzes, Japanese prints, Indian art, and Greco-Roman antiquities, especially vases and sculptures.",
+            "info": "Harvard University, founded in 1636, is the oldest institution of higher learning in the United States and is widely considered one of the world's leading academic centers. Go to the Harvard Information Center to take a spirited and entertaining free walking tour of the campus guided by a student who will share history, Harvard lore, and personal perspective. Or you can download a tour from their website. Harvard Yard sits right in Harvard Square, a lively hub for students, 'townies,' and visitors, filled with shops, bookstores, and allegedly more places to buy ice cream than any other U.S.city. Adjoining Harvard Yard is the Renzo Piano-designed home of the Harvard Art Museums, including three formerly separate collections, each of which ranked high as major U.S. art museums. Few universities have such enviable collections. Fogg Art Museum concentrates on Italian early-Renaissance art, the Busch-Reisinger on Expressionist art of central and northern Europe, with Bauhaus objects and paintings by Kandinsky and Klee. The Arthur M. Sackler Museum has one of the world's best collections of Chinese jade, as well as Chinese bronzes, Japanese prints, Indian art, and Greco-Roman antiquities, especially vases and sculptures.",
             "url": "https://www.harvardartmuseums.org"
         },
         {
             "name": "Harvard Museums and the Glass Flowers",
             "location":{
                 "lat": 42.3777367,
-                "lng": -71.1182975
+                "lng": -71.1182975,
+                "url": "https://www.google.co.kr/maps/place/Harvard+Museum+of+Natural+History/@42.3777327,-71.1182975,17z/data=!4m8!1m2!2m1!1sHarvard+Museums+and+the+Glass+Flowers!3m4!1s0x89e377412f2ed67b:0x613d8c4648bcba7b!8m2!3d42.3784626!4d-71.1155576"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-harvard-museums.jpg",
-            "info": "Although the four museums that make up this complex contain treasures such as the artifacts brought back by Lewis and Clark, 
-            for most people, the highlight is the more than 3,000 models of 830 species of flowers and plants, some with insects, 
-            and all so realistic that you will have trouble believing they are made of glass. 
-            Created between 1887 and 1936 by artisans Leopold and Rudolf Blaschka, the flowers are unique in the world, and their secret process has never been replicated. 
-            These are part of Harvard's massive research collections, shown under one roof in the Peabody Museum of Archeology and Ethnology, the Mineralogical Museum, the Museum of Comparative Zoology, and the Botanical Museum.
-            Particularly strong in Native American exhibits, the Peabody shows artifacts and art interpreted as part of a living culture, even when that culture has vanished. 
-            You can admire some of the finest examples of Native American arts from many periods and tribes, and also see how these changed as Europeans provided a new market for their goods. 
-            Those who like the Victorian 'Cabinet of Curiosities' feel of old traditional museums will love the Pacific Islands balcony - it's like stepping back a century. 
-            The Museum of Comparative Zoology, founded by Louis Agassiz in 1859, contains an extensive collection of fossils, including a 25,000-year-old mastodon. 
-            The mineralogy collections include a dazzling display of rough and cut gemstones, a world-renowned meteorite collection, rocks, ores, and minerals from around the world.",
+            "info": "Although the four museums that make up this complex contain treasures such as the artifacts brought back by Lewis and Clark, for most people, the highlight is the more than 3,000 models of 830 species of flowers and plants, some with insects, and all so realistic that you will have trouble believing they are made of glass. Created between 1887 and 1936 by artisans Leopold and Rudolf Blaschka, the flowers are unique in the world, and their secret process has never been replicated. These are part of Harvard's massive research collections, shown under one roof in the Peabody Museum of Archeology and Ethnology, the Mineralogical Museum, the Museum of Comparative Zoology, and the Botanical Museum. Particularly strong in Native American exhibits, the Peabody shows artifacts and art interpreted as part of a living culture, even when that culture has vanished. You can admire some of the finest examples of Native American arts from many periods and tribes, and also see how these changed as Europeans provided a new market for their goods. Those who like the Victorian 'Cabinet of Curiosities' feel of old traditional museums will love the Pacific Islands balcony - it's like stepping back a century. The Museum of Comparative Zoology, founded by Louis Agassiz in 1859, contains an extensive collection of fossils, including a 25,000-year-old mastodon. The mineralogy collections include a dazzling display of rough and cut gemstones, a world-renowned meteorite collection, rocks, ores, and minerals from around the world.",
             "url": "http://hmnh.harvard.edu"
         },
         {
-            "name": "7 Copley Square",
+            "name": "Copley Square",
             "location":{
                 "lat": 42.3846673,
-                "lng": -71.1359643
+                "lng": -71.1359643,
+                "url": "https://www.google.co.kr/maps/place/Copley+Square,+Boston,+MA+02116+%EB%AF%B8%EA%B5%AD/@42.350008,-71.0787445,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a0c86fc8453:0x7d6c3c465b6c40e2!8m2!3d42.350008!4d-71.0765558"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-copley-square.jpg",
-            "info": "The main square of the Back Bay area is surrounded by both old and ultra-modern buildings. 
-            Its architectural highlight is Trinity Church, a red sandstone building designed by architect Henry Hobson Richardson in his distinctive style, known as Richardson Romanesque. 
-            Trinity is widely considered to be his finest work. The murals, frescoes, and painted decorations inside are by John La Farge and much of the fine stained glass is by Edward Burne-Jones and William Morris. 
-            Facing it, across a grassy lawn where you can enjoy a picnic lunch with neighborhood office workers, is the Boston Public Library founded in 1848 as the first publicly funded lending library in the country. 
-            Architect Charles Follen McKim designed the present building in 1895. Go inside to see the library's Renaissance Revival architecture and murals by John Singer Sargent and Edwin Abbey.
-            On a third side of the square is the venerable Boston institution, the Copley Plaza Hotel, now a Fairmont property; these three buildings, backed by the sheer glass wall of a skyscraper, create a stunning cityscape. 
-            A block down Boylston Street, look for the finish line of the Boston Marathon, run each April on Patriot's Day. 
-            Just beyond is the Prudential Center, a 32-acre complex of apartments, shops, restaurants, and a 52-story tower. 
-            On its 50th floor you can visit the Skywalk observation deck for 360-degree views of Boston and its surroundings.",
+            "info": "The main square of the Back Bay area is surrounded by both old and ultra-modern buildings. Its architectural highlight is Trinity Church, a red sandstone building designed by architect Henry Hobson Richardson in his distinctive style, known as Richardson Romanesque. Trinity is widely considered to be his finest work. The murals, frescoes, and painted decorations inside are by John La Farge and much of the fine stained glass is by Edward Burne-Jones and William Morris. Facing it, across a grassy lawn where you can enjoy a picnic lunch with neighborhood office workers, is the Boston Public Library founded in 1848 as the first publicly funded lending library in the country. Architect Charles Follen McKim designed the present building in 1895. Go inside to see the library's Renaissance Revival architecture and murals by John Singer Sargent and Edwin Abbey. On a third side of the square is the venerable Boston institution, the Copley Plaza Hotel, now a Fairmont property; these three buildings, backed by the sheer glass wall of a skyscraper, create a stunning cityscape. A block down Boylston Street, look for the finish line of the Boston Marathon, run each April on Patriot's Day. Just beyond is the Prudential Center, a 32-acre complex of apartments, shops, restaurants, and a 52-story tower. On its 50th floor you can visit the Skywalk observation deck for 360-degree views of Boston and its surroundings.",
             "url": "http://www.simon.com/mall/copley-place"
         },
         {
@@ -130,53 +84,40 @@
                 "lng": -71.0994065
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-fenway-park.jpg",
-            "info": "Known as 'America's Most Beloved Ballpark', Fenway Park is one of the most fabled sports complexes in the country, and even if you're not a sports fan, a tour of it is both fun and interesting. 
-            The home of the Boston Red Sox looks much the same as it did when it opened on April 20, 1912. One of its most recognizable features is the Green Monster, the 37-foot green wall in left field, 
-            and the park still maintains some of the remnants of 'old time' baseball such as the hand-operated scoreboard. 
-            It also has the lowest seating capacity in the Major Leagues holding only 33,871 spectators (a fact that makes tickets exceedingly scarce).",
-            "url": "http://boston.redsox.mlb.com/bos/ballpark/"
+            "info": "Known as 'America's Most Beloved Ballpark', Fenway Park is one of the most fabled sports complexes in the country, and even if you're not a sports fan, a tour of it is both fun and interesting. The home of the Boston Red Sox looks much the same as it did when it opened on April 20, 1912. One of its most recognizable features is the Green Monster, the 37-foot green wall in left field, and the park still maintains some of the remnants of 'old time' baseball such as the hand-operated scoreboard. It also has the lowest seating capacity in the Major Leagues holding only 33,871 spectators (a fact that makes tickets exceedingly scarce).",
+            "url": "https://www.google.co.kr/maps/place/%ED%8E%9C%EC%9B%A8%EC%9D%B4+%ED%8C%8C%ED%81%AC/@42.3466764,-71.0994065,17z/data=!3m1!4b1!4m5!3m4!1s0x89e379f63f253f6f:0xa2800dcb647a5504!8m2!3d42.3466764!4d-71.0972178"
         },
         {
             "name": "Museum of Fine Arts Boston",
             "location":{
                 "lat": 42.3393849,
-                "lng": -71.0962367
+                "lng": -71.0962367,
+                "url": "https://www.google.co.kr/maps/place/%EB%B3%B4%EC%8A%A4%ED%84%B4+%EB%AF%B8%EC%88%A0%EA%B4%80/@42.339381,-71.0962367,17z/data=!3m1!4b1!4m5!3m4!1s0x89e37a0de7e77a4b:0x2f033fd6c495d564!8m2!3d42.339381!4d-71.094048"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-fine-arts-museum.jpg",
-            "info": "One of the leading art museums in the country, the Boston Museum of Fine Arts excels in its collections of Impressionist paintings, 
-            ancient Egyptian treasures, Asian and Persian fine arts, and works from ancient Greece and the Middle East. 
-            But its newest and crowning achievement is the construction of an entire American Wing to house, integrated in chronological order, 
-            outstanding collections of American paintings, furniture, decorative arts, folk art, silver, glassware, and design dating from pre-Columbian arts to the Art Deco and Modernist eras. Highlights elsewhere include a 12th-century lacquered-wood sculpture of a Buddhist Bodhisattva and Korean painted screens, the ivory and gold statue of the Minoan Snake Goddess from 1500 BC, and a statue of the Egyptian pharaoh Mycerinus and his queen from 2548-2530 BC.",
+            "info": "One of the leading art museums in the country, the Boston Museum of Fine Arts excels in its collections of Impressionist paintings, ancient Egyptian treasures, Asian and Persian fine arts, and works from ancient Greece and the Middle East. But its newest and crowning achievement is the construction of an entire American Wing to house, integrated in chronological order, outstanding collections of American paintings, furniture, decorative arts, folk art, silver, glassware, and design dating from pre-Columbian arts to the Art Deco and Modernist eras. Highlights elsewhere include a 12th-century lacquered-wood sculpture of a Buddhist Bodhisattva and Korean painted screens, the ivory and gold statue of the Minoan Snake Goddess from 1500 BC, and a statue of the Egyptian pharaoh Mycerinus and his queen from 2548-2530 BC.",
             "url": "http://www.mfa.org"
         },
         {
             "name": "Isabella Stewart Gardner Museum",
             "location":{
                 "lat": 42.3381839,
-                "lng": -71.1013097
+                "lng": -71.1013097,
+                "url": "https://www.google.co.kr/maps/place/%EC%9D%B4%EC%82%AC%EB%B2%A8%EB%9D%BC+%EC%8A%A4%ED%8A%9C%EC%96%B4%ED%8A%B8+%EA%B0%80%EB%93%9C%EB%84%88+%EB%AE%A4%EC%A7%80%EC%97%84/@42.33818,-71.1013097,17z/data=!3m1!4b1!4m5!3m4!1s0x89e3798a92d68549:0xdac5a0cd0f233abd!8m2!3d42.33818!4d-71.099121"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-gardner-museum.jpg",
-            "info": "Set in a building its eccentric creator modeled after a 15th-century Venetian palace, the Isabella Stewart Gardner Museum displays its collections in rooms surrounding a four-story central courtyard filled with flowering plants and fountains. 
-            The priceless 2500-piece collection of paintings, sculptures, furniture, tapestries, decorative arts, books, and manuscripts reflect the personal tastes and considerable expertise of Mrs. Gardner herself, whose own flamboyance further adds to the charm of the museum.
-            Behind the palazzo, a 70,000-square-foot glass-clad building designed by Italian architect Renzo Piano creates new viewpoints for the original palazzo and stunning spaces for music and visual arts, allowing the museum to showcase exceptional contemporary works and artists. 
-            Rather than clash or compete with the original building, Piano's wing simply provides a new glass through which to view Mrs. Gardner's palazzo. 
-            From almost anywhere in the new building are uninterrupted prospects of the palace and gardens through transparent walls. 
-            After you tour the museum, stroll through the Fens, a long green space where you'll find a beautiful rose garden in bloom from June through October.",
+            "info": "Set in a building its eccentric creator modeled after a 15th-century Venetian palace, the Isabella Stewart Gardner Museum displays its collections in rooms surrounding a four-story central courtyard filled with flowering plants and fountains. The priceless 2500-piece collection of paintings, sculptures, furniture, tapestries, decorative arts, books, and manuscripts reflect the personal tastes and considerable expertise of Mrs. Gardner herself, whose own flamboyance further adds to the charm of the museum. Behind the palazzo, a 70,000-square-foot glass-clad building designed by Italian architect Renzo Piano creates new viewpoints for the original palazzo and stunning spaces for music and visual arts, allowing the museum to showcase exceptional contemporary works and artists. Rather than clash or compete with the original building, Piano's wing simply provides a new glass through which to view Mrs. Gardner's palazzo. From almost anywhere in the new building are uninterrupted prospects of the palace and gardens through transparent walls. After you tour the museum, stroll through the Fens, a long green space where you'll find a beautiful rose garden in bloom from June through October.",
             "url": "https://www.gardnermuseum.org/home"
         },
         {
             "name": "Boston Pops and Boston Symphony Orchestra",
             "location":{
                 "lat": 42.3428252,
-                "lng": -71.0879191
+                "lng": -71.0879191,
+                "url": "https://www.google.co.kr/maps/place/Boston+Symphony+Hall/@42.3428213,-71.0879191,17z/data=!3m2!4b1!5s0x89e37a1a01c702fb:0xb2369640c3fe71c0!4m5!3m4!1s0x89e37a17556a5d09:0xaefe451823f5f90!8m2!3d42.3428213!4d-71.0857304"
             },
             "image": "http://www.planetware.com/photos-large/USMA/boston-massachusetts-united-states-boston-pops.jpg",
-            "info": "The Boston Symphony Orchestra gave its inaugural concert in 1881 at Symphony Hall, one of the world's most acoustically perfect concert halls, opened in 1900. 
-            Over more than a century of history, its conductors have included greats such as Pierre Monteux, Serge Koussevitzky, Charles Munch, Seiji Ozawa, and James Levine. 
-            In addition to its regular symphony season, the hall is home to the Boston Pops Orchestra, which sets an international standard for performances of lighter music. 
-            For many visitors, the highlight of a trip is a Pops concert, either in Symphony Hall or at the Hatch Memorial Shell, an Art Deco outdoor music shell on the riverside Esplanade that has become a Boston landmark. 
-            The shell hosts a regular program of concerts and other special events, and is especially famous for the Boston Pop's yearly performance of the 1812 Overture on July 4th. Audiences sit on the lawn in front of the shell with views of Cambridge, Back Bay, and Beacon Hill. 
-            You can go behind the scenes on a tour of Symphony Hall where you'll hear the history and traditions of the Boston Symphony Orchestra, its musicians and conductors.",
+            "info": "The Boston Symphony Orchestra gave its inaugural concert in 1881 at Symphony Hall, one of the world's most acoustically perfect concert halls, opened in 1900. Over more than a century of history, its conductors have included greats such as Pierre Monteux, Serge Koussevitzky, Charles Munch, Seiji Ozawa, and James Levine. In addition to its regular symphony season, the hall is home to the Boston Pops Orchestra, which sets an international standard for performances of lighter music. For many visitors, the highlight of a trip is a Pops concert, either in Symphony Hall or at the Hatch Memorial Shell, an Art Deco outdoor music shell on the riverside Esplanade that has become a Boston landmark. The shell hosts a regular program of concerts and other special events, and is especially famous for the Boston Pop's yearly performance of the 1812 Overture on July 4th. Audiences sit on the lawn in front of the shell with views of Cambridge, Back Bay, and Beacon Hill. You can go behind the scenes on a tour of Symphony Hall where you'll hear the history and traditions of the Boston Symphony Orchestra, its musicians and conductors.",
             "url": "https://www.bso.org"
         }
     ]
