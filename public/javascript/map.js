@@ -12,11 +12,15 @@ function loadJSON(file, callback) {
       };
       xobj.send(null);  
    }
-   
-  
-var map;
+
+   var directionsDisplay;
+   var map;
+   var directionsService;
+ 
 
 function initMap() {
+  directionsDisplay = new google.maps.DirectionsRenderer();
+  directionsService =  new google.maps.DirectionsService();
 
   map = new google.maps.Map(document.getElementById('map'), {
     zoom: 13,
@@ -24,7 +28,7 @@ function initMap() {
     mapTypeId: 'terrain',
     mapTypeControl: false
   });
-
+  directionsDisplay.setMap(map);
 
     loadJSON("../json/trip.json", function(response) {
       
@@ -33,7 +37,7 @@ function initMap() {
             for(var i =0 ;i< actual_JSON.sights.length ;i++)
             {
               var location = actual_JSON.sights[i].location;
-             // console.log(location);
+              console.log(location);
               var latLng = new google.maps.LatLng(location.lat,location.lng);
               var marker = new google.maps.Marker({
                 position: latLng,
@@ -42,6 +46,9 @@ function initMap() {
             }
             
         });
+
+
+
 
   var styleControl = document.getElementById('style-selector-control');
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(styleControl);
@@ -55,6 +62,33 @@ function initMap() {
     map.setOptions({styles: styles[styleSelector.value]});
   });
  
+}
+function calcRoute() {
+  var haight = new google.maps.LatLng(42.3846673, -71.1359643);
+  var oceanBeach = new google.maps.LatLng(42.3393849, -71.0962367);
+  var l1= new google.maps.LatLng(42.3540951,-71.0722136);
+  var l2= new google.maps.LatLng(42.3583059,-71.0711146);
+
+
+  var selectedMode = document.getElementById('mode').value;
+  var request = {
+      origin: haight,
+      destination: oceanBeach,
+      waypoints: [
+        {
+          location: l1,
+          stopover: false
+        },{
+          location: l2,
+          stopover: true
+        }],
+      travelMode: google.maps.TravelMode[selectedMode]
+  };
+  directionsService.route(request, function(response, status) {
+    if (status == 'OK') {
+      directionsDisplay.setDirections(response);
+    }
+  });
 }
 
 
