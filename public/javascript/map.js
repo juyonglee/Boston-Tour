@@ -1,27 +1,48 @@
 
+function loadJSON(file, callback) {   
+  
+      var xobj = new XMLHttpRequest();
+      xobj.overrideMimeType("application/json");
+      xobj.open('GET', file, true); // Replace 'my_data' with the path to your file
+      xobj.onreadystatechange = function () {
+            if (xobj.readyState == 4 && xobj.status == "200") {
+              // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+              callback(xobj.responseText);
+            }
+      };
+      xobj.send(null);  
+   }
+   
+  
 var map;
+
 function initMap() {
-  // Create the map with no initial style specified.
-  // It therefore has default styling.
-  var uluru = {lat: -25.363, lng: 131.044};
 
   map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 2,
-    center: new google.maps.LatLng(2.8,-187.3),
+    zoom: 13,
+    center: new google.maps.LatLng(42.3393849,-71.0962367),
     mapTypeId: 'terrain',
     mapTypeControl: false
   });
- 
-    // var data =  map.data.loadGeoJson('../json/trip.json');
-     
-    
 
-       // Create a <script> tag and set the USGS URL as the source.
-       var script = document.createElement('script');
-       script.src = 'https://developers.google.com/maps/documentation/javascript/examples/json/earthquake_GeoJSONP.js';
-       document.getElementsByTagName('head')[0].appendChild(script);
 
-  // Add a style-selector control to the map.
+    loadJSON("../json/trip.json", function(response) {
+      
+            var actual_JSON = JSON.parse(response);
+            
+            for(var i =0 ;i< actual_JSON.sights.length ;i++)
+            {
+              var location = actual_JSON.sights[i].location;
+             // console.log(location);
+              var latLng = new google.maps.LatLng(location.lat,location.lng);
+              var marker = new google.maps.Marker({
+                position: latLng,
+                map: map
+              });
+            }
+            
+        });
+
   var styleControl = document.getElementById('style-selector-control');
   map.controls[google.maps.ControlPosition.TOP_LEFT].push(styleControl);
 
@@ -35,16 +56,7 @@ function initMap() {
   });
  
 }
-window.eqfeed_callback = function(results) {
-  for (var i = 0; i < results.features.length; i++) {
-    var coords = results.features[i].geometry.coordinates;
-    var latLng = new google.maps.LatLng(coords[1],coords[0]);
-    var marker = new google.maps.Marker({
-      position: latLng,
-      map: map
-    });
-  }
-}
+
 
 var styles = {
   default: null,
